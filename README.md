@@ -11,7 +11,7 @@ If you're curious about me, please contact me at the email link below.
 
 
 ### 😉 My Email
-<a href="tkfkddkfma77@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:"tkfkddkfma77@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **soeun1222/soeun1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
