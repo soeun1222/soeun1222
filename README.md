@@ -1,9 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=e56d75&section=header&reversal=true&height=200&text=Hello%20I'm%20Soeun%20Park&fontColor=fff&fontSize=45&fontAlign=70&fontAlignY=35&animation=fadeIn)
 
 
-### Hi there 👋
+
+👋 Hi there :)  Welcome to my GitHub  
+If you want to explore my various projects 📑, click on the project link below.
+
+I majored in industrial design and took classes in web design and Java.  
+If you're curious about me, please contact me at the email link below.
 
 
+
+### 😉 My Email
+<a href="tkfkddkfma77@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **soeun1222/soeun1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠️ My Skill  
+  
+  
+### 🛠️ My Skills  
 
 
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -31,6 +41,8 @@ Here are some ideas to get you started:
 
 
 
+   
+  
 ### 📑 My Project Link
 
 > First Project : [wannaBE대면](https://github.com/soeun1222/wannaBE)  
