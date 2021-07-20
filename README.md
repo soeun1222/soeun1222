@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&reversal=true&height=200&text=Hello%20I'm%20Soeun%20Park&fontSize=45&fontAlign=70&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e56d75&section=header&reversal=true&height=200&text=Hello%20I'm%20Soeun%20Park&fontColor=fff&fontSize=45&fontAlign=70&fontAlignY=35&animation=fadeIn)
 
 
 ### Hi there 👋
