@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&reversal=true&height=200&text=Hello%20I'm%20Soeun%20Park&fontSize=45&fontAlign=70&fontAlignY=35&animation=fadeIn)
 
 
 ### Hi there 👋
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=ccc&section=footer&text=bye%20bye%20:3&fontSize=17&fontAlign=90&fontAlignY=80&fontColor=fff)
